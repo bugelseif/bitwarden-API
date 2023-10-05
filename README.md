@@ -2,7 +2,7 @@
 
 - criar venv
 - ativar venv
-- instalar coocliecutter
+- instalar coockiecutter
 - baixar template botcity web bot
 - adicionar dependencia do bitwarden no requirements
 - instalar dependencias
