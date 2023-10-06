@@ -14,7 +14,7 @@
 
 
 ## Onde pegar as chaves?
-Após fazer [signup na Bitwarden](https://vault.bitwarden.com/#/vault), seguimos alguns passos:
+Após fazer signup na Bitwarden, seguimos alguns passos:
 
 - Acessar o menu do usuário e selecionar _Account settings_
 
