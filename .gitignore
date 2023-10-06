@@ -17,3 +17,6 @@ venv/
 
 # geckodriver
 geckodriver.log
+
+# ta-bitwarden
+ta-bitwarden.log
