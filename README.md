@@ -1,19 +1,26 @@
-# Exemplo para uso da API Bitwarden
+# Exemplo de uso da API Bitwarden
 
-- criar venv
-- ativar venv
-- instalar coockiecutter
-- baixar template botcity web bot
-- adicionar dependencia do bitwarden no requirements
-- instalar dependencias
-- setar webdriver
-- carregar secrets Bitwarden no sistema
-- conectar API Bitwarden
-- desenvolver lógica para acessar e preencher o form
-- verificar os resultados
+## Objetivo
+Este repositório tem como objetivo demonstrar o uso da API Bitwarden para acesso a senhas e outas informações armazenadas na plataforma e usá-las de forma segura no preenchimento de formulários web.
 
+## Pré-requisitos
+Para executar o código é necessário ter instalado:
 
-## Onde pegar as chaves?
+- Python 3.8^
+- Pip
+- Virtualenv (opcional)
+
+## Como usar
+Abaixo uma lista de passos para executar o código:
+
+- Criar venv (opcional)
+- Ativar venv (opcional)
+- Instalar dependências
+- Buscar chaves Bitwarden
+- Atribuir chaves à variáveis de ambiente
+- Executar código
+
+## Onde pegar as chaves na Bitwarden?
 Após fazer signup na Bitwarden, seguimos alguns passos:
 
 - Acessar o menu do usuário e selecionar _Account settings_
